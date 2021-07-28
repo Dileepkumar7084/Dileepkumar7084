@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dileepkuma
+- 👋 Hi, I’m Dileep kumar
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python
 
