@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Dileep kumar
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Dileep kumar.
+- 👀 I’m interested in Programming.
+- 🌱 I’m currently learning Python.
 
 <!---
 Dileepkumar7084/Dileepkumar7084 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
